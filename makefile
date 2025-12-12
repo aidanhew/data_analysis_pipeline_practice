@@ -1,4 +1,4 @@
-.PHONY: all clean scratch
+.PHONY: all clean
 
 all:
 	make report/count_report.html
